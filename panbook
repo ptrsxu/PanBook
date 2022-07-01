@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # set -x
 # 超全局变量
 SCRIPTDIR=`cd $(dirname $0);pwd`
